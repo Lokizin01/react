@@ -1,11 +1,10 @@
-import Footer from '../../components/footer/Footer'
-import Header from '../../components/header/Header'
+
 import './produtos.css'
 
 function produtos(){
 return(
     <>
-    <Header></Header>
+
     <main>
   <section className="prod_banner" />
   <section className="container prod_container">
@@ -41,7 +40,7 @@ return(
     </div>
   </section>
 </main>
-<Footer></Footer>
+
 </>
 )
 }

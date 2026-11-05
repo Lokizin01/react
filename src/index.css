@@ -26,6 +26,14 @@ body {
     /* background-color: aqua; */
 }
 
+.container-not-found {
+   /* width: 95%;
+    max-width: 1200px;*/
+    margin: 0 auto;
+    display: block;
+    /* background-color: aqua; */
+}
+
 
 /* ---------- H2 ---------- */
 .box_h2 {
